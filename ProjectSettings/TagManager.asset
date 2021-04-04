@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - TruckPivot
+  - ResisRayCaster
+  - CenterOfMass
+  - Truck
+  - TireAPoint
+  - TireBPoint
+  - BoxesCenter
+  - Box
+  - Start
+  - EndPoint
+  - BoxSet
+  - Area
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Truck
+  - Water
+  - UI
+  - Wheels
+  - Platform
+  - Box
+  - Basket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platform
+    uniqueID: 3458126099
+    locked: 0
+  - name: Box
+    uniqueID: 807668949
+    locked: 0
+  - name: Truck
+    uniqueID: 491965063
+    locked: 0
+  - name: Wheels
+    uniqueID: 864544179
+    locked: 0
